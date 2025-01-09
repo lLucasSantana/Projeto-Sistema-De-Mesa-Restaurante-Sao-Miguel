@@ -26,6 +26,6 @@ Algumas funções, no aplicativo.
 
 
 
-Conforme vemos, o aplicativo é simples, mas bastante útil, pois podemos ter o gerenciamento de mesas, seja qual for o evento, ou negócio!
+O aplicativo é simples, mas bastante útil, pois podemos ter o gerenciamento de mesas, seja qual for o evento, ou negócio!
 Obrigado!
 
